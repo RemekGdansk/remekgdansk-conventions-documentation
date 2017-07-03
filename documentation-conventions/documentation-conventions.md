@@ -4,7 +4,7 @@
 
 There are many Unix-inspired documentation conventions around, every one slightly differing from others.
 
-In this document, I have described conventions I follow in my ([RemekGdansk](github.com/RemekGdansk)) projects.
+In this document, I have described conventions I follow in my ([RemekGdansk](http://github.com/RemekGdansk)) projects.
 
 I have chosen a variant that does not rely on formatting (**bold**, _italic_) to convey all necessary information, so it can be used in plain text files.
 
